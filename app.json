@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "sci-fair-2024",
+    "slug": "sci-fair-2024"
+  }
+}
